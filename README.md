@@ -1,11 +1,8 @@
-# PE-UNI-2026
+# Programación Estructurada
 
-Repositorio de ejercicios de Programación Estructurada.
+Estudiante: Nombre Apellido
+Carnet: 2026-0000U
+Grupo: (tu grupo)
+Universidad Nacional de Ingeniería (UNI)
 
-## Estudiante
-
-Norman Gutiérrez
-
-## Lenguaje
-
-Python
+Ejercicios del curso desarrollados en Python 3.
